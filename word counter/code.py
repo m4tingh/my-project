@@ -1,3 +1,8 @@
+import sys
+sys.path.append('nltk')
+
+
+
 import nltk
 from nltk.tokenize import word_tokenize
 import os

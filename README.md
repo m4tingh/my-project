@@ -7,3 +7,4 @@ This repository contains simple AI projects that I work on (just like a personal
 
 # Projects:
 ## Project 1: word counter
+## Project 2: linear regression and logistic regression 
